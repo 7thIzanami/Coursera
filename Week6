@@ -1,0 +1,59 @@
+# Data Science Notebook
+
+## Introduction
+
+Welcome to this data science notebook! In this notebook, we will explore various aspects of data science, including languages, libraries, tools, and example expressions.
+
+## Data Science Languages
+
+- Python
+- R
+- Julia
+- SQL
+- Java
+
+## Data Science Libraries
+
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+## Data Science Tools
+
+| Tool          | Description                   |
+|---------------|-------------------------------|
+| Jupyter       | Interactive notebooks        |
+| TensorFlow    | Machine learning framework    |
+| PyTorch       | Deep learning library         |
+| SQL           | Database query language       |
+| Tableau       | Data visualization tool       |
+
+## Arithmetic Expression Examples
+
+Let's explore some basic arithmetic expressions in the following code cells.
+
+# Code cell
+result_multiply = 5 * 3
+result_add = 5 + 3
+
+print("Multiplication result:", result_multiply)
+print("Addition result:", result_add)
+
+# Code cell
+minutes = 120
+hours = minutes / 60
+
+print(f"{minutes} minutes is equal to {hours} hours.")
+
+## Objectives
+
+1. Explore data science languages.
+2. Understand common data science libraries.
+3. Familiarize yourself with data science tools.
+4. Practice basic arithmetic expressions.
+5. Convert units in code.
+
+## Author
+
+- Sean Longos
